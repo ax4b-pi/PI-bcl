@@ -1,0 +1,10 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\bin\Debug\netstandard2.0\DuCorp.Auth.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\bin\Debug\netstandard2.0\DuCorp.Auth.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\bin\Debug\netstandard2.0\DuCorp.Auth.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Auth\DuCorp.Auth\obj\Debug\netstandard2.0\DuCorp.Auth.pdb

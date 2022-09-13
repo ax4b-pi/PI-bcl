@@ -1,0 +1,13 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\bin\Debug\netstandard2.0\DuCorp.Swagger.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\bin\Debug\netstandard2.0\DuCorp.Swagger.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\bin\Debug\netstandard2.0\DuCorp.Swagger.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\bin\Debug\netstandard2.0\DuCorp.Core.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\bin\Debug\netstandard2.0\DuCorp.Core.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.csproj.CopyComplete
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Swagger\duCorp.Swagger\obj\Debug\netstandard2.0\DuCorp.Swagger.pdb

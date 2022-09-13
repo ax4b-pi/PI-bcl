@@ -1,0 +1,13 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\DuCorp.EventBus.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\DuCorp.EventBus.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.csproj.CopyComplete
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\DuCorp.EventBus.IntegrationEventServices.pdb

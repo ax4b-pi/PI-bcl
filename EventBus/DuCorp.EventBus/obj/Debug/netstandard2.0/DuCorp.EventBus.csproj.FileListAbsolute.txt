@@ -1,0 +1,10 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\bin\Debug\netstandard2.0\DuCorp.EventBus.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\bin\Debug\netstandard2.0\DuCorp.EventBus.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\bin\Debug\netstandard2.0\DuCorp.EventBus.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\EventBus\DuCorp.EventBus\obj\Debug\netstandard2.0\DuCorp.EventBus.pdb

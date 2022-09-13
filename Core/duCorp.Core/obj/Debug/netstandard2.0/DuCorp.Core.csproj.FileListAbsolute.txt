@@ -1,0 +1,10 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\bin\Debug\netstandard2.0\DuCorp.Core.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\bin\Debug\netstandard2.0\DuCorp.Core.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\bin\Debug\netstandard2.0\DuCorp.Core.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Core\duCorp.Core\obj\Debug\netstandard2.0\DuCorp.Core.pdb

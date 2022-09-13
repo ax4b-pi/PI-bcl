@@ -1,0 +1,15 @@
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Resilience.deps.json
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Resilience.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Resilience.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Auth.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Core.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Auth.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\bin\Debug\netstandard2.0\DuCorp.Core.pdb
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.AssemblyInfo.cs
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.csproj.CopyComplete
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.dll
+C:\Users\douglas.silva\dufrio\DuCorp\src\Bcl\Resilience\DuCorp.Resilience\obj\Debug\netstandard2.0\DuCorp.Resilience.pdb
