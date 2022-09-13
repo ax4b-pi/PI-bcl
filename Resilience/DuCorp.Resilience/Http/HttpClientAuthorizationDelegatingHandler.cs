@@ -10,7 +10,7 @@ using System.Security.Claims;
 using Microsoft.Identity.Client;
 using DuCorp.Core;
 using System.Linq;
-using DuCorp.Auth;
+using PIBcl.Auth;
 using System.Text;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
