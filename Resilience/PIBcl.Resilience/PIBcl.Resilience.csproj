@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Auth\PIBcl.Auth\PIBcl.Auth.csproj" />
-    <ProjectReference Include="..\..\Core\duCorp.Core\DuCorp.Core.csproj" />
+    <ProjectReference Include="..\..\Core\PIBcl.Core\PIBcl.Core.csproj" />
   </ItemGroup>
 
 </Project>

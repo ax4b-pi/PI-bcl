@@ -22,10 +22,10 @@ namespace PIBcl.Resilience.Http
     {
         private readonly IHttpContextAccessor _httpContextAccesor;
         private readonly IApiInfo _apiInfo;
-        private readonly DuCorp.Core.IUser _user;
+        private readonly PIBcl.Core.IUser _user;
         private readonly IDistributedCache _cache;
 
-        public HttpClientAuthorizationDelegatingHandler(IHttpContextAccessor httpContextAccesor, IApiInfo apiInfo, DuCorp.Core.IUser user, IDistributedCache cache)
+        public HttpClientAuthorizationDelegatingHandler(IHttpContextAccessor httpContextAccesor, IApiInfo apiInfo, PIBcl.Core.IUser user, IDistributedCache cache)
         {
             _httpContextAccesor = httpContextAccesor;
             _apiInfo = apiInfo;
