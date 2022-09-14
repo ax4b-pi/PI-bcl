@@ -98,7 +98,7 @@ namespace Microsoft.Extensions.DependencyInjection
 
 
          services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-         services.AddScoped<DuCorp.Core.IUser, HttpContextUser>();
+         services.AddScoped<PIBcl.Core.IUser, HttpContextUser>();
 
          services.AddSession();
 
