@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Core",
-    "\\Core\\duCorp.Core"
+    "\\Auth",
+    "\\Auth\\PIBcl.Auth"
   ],
-  "SelectedNode": "\\Core\\duCorp.Core",
+  "SelectedNode": "\\Auth\\PIBcl.Auth\\PIBcl.Auth.csproj",
   "PreviewInSolutionExplorer": false
 }
