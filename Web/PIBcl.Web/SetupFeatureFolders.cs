@@ -1,4 +1,4 @@
-﻿using DuCorp.Web;
+﻿using PIBcl.Web;
 using Microsoft.AspNetCore.Mvc.Razor;
 
 namespace Microsoft.Extensions.DependencyInjection

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.Web.Exceptions
+namespace PIBcl.Web.Exceptions
 {
    public class JsonErrorResponse
    {

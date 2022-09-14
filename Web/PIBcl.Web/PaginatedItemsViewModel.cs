@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
 
    public class PaginatedItems<TEntity> where TEntity : class

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.Extensions.Logging;
 
 
-namespace DuCorp.Web.Exceptions
+namespace PIBcl.Web.Exceptions
 {
     public class HttpGlobalExceptionFilter : IExceptionFilter
     {

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
    public static class ModelStateExtensions
    {

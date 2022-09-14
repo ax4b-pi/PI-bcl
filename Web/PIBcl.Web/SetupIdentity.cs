@@ -1,5 +1,5 @@
-﻿using DuCorp.Core;
-using DuCorp.Web;
+﻿using PIBcl.Core;
+using PIBcl.Web;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authentication.AzureAD.UI;

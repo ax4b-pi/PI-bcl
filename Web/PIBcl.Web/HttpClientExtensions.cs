@@ -7,7 +7,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
     public static class HttpClientExtensions
     {

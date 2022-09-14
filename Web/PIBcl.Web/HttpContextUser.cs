@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
-using DuCorp.Core;
+using PIBcl.Core;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
     public class HttpContextUser : IUser
     {

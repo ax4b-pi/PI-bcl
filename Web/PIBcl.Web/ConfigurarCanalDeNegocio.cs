@@ -1,8 +1,8 @@
-﻿using DuCorp.Core;
+﻿using PIBcl.Core;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
    public static class ConfigurarCanalDeNegocio
    {

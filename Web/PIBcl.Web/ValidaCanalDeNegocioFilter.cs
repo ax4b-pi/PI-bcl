@@ -1,10 +1,10 @@
-﻿using DuCorp.Core;
+﻿using PIBcl.Core;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.Web
+namespace PIBcl.Web
 {
 
     public class ValidaCanalDeNegocioFilter : IActionFilter
