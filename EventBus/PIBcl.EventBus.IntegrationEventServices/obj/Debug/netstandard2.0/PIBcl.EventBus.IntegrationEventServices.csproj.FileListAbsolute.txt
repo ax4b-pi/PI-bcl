@@ -1,0 +1,13 @@
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.deps.json
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.AssemblyReference.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.AssemblyInfoInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.AssemblyInfo.cs
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.CoreCompileInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.CopyComplete
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.pdb
