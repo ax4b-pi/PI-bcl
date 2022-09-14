@@ -1,0 +1,10 @@
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.deps.json
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.csproj.AssemblyReference.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AssemblyInfoInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AssemblyInfo.cs
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.pdb
