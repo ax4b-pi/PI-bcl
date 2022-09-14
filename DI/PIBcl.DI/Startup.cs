@@ -4,7 +4,7 @@ using Autofac.Core;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DuCorp.DI
+namespace PIBcl.DI
 {
    public static class Startup
    {
