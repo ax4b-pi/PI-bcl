@@ -15,7 +15,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\DuCorp.EventBus\DuCorp.EventBus.csproj" />
+    <ProjectReference Include="..\PIBcl.EventBus\PIBcl.EventBus.csproj" />
   </ItemGroup>
 
 </Project>

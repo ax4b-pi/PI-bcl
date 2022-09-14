@@ -1,0 +1,13 @@
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.deps.json
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.AssemblyReference.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.AssemblyInfoInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.AssemblyInfo.cs
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.CoreCompileInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.CopyComplete
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.dll
+C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.pdb
