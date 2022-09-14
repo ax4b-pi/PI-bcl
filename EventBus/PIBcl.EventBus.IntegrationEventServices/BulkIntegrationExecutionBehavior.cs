@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MediatR;
 using Microsoft.Extensions.Logging;
 
-namespace DuCorp.EventBus.IntegrationEventServices
+namespace PIBcl.EventBus.IntegrationEventServices
 {
     public class BulkIntegrationExecutionBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
     {

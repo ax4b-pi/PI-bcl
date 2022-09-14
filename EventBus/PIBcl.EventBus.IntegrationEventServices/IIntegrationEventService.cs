@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace DuCorp.EventBus.IntegrationEventServices
+namespace PIBcl.EventBus.IntegrationEventServices
 {
     public interface IIntegrationEventService
     {
