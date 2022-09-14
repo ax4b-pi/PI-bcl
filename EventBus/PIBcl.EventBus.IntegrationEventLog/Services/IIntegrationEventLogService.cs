@@ -4,7 +4,7 @@ using System.Data.Common;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuCorp.EventBus.IntegrationEventLog.Services
+namespace PIBcl.EventBus.IntegrationEventLog.Services
 {
     public interface IIntegrationEventLogService
     {

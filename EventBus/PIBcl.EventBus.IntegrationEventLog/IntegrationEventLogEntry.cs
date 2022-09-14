@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace DuCorp.EventBus.IntegrationEventLog
+namespace PIBcl.EventBus.IntegrationEventLog
 {
     public class IntegrationEventLogEntry
     {

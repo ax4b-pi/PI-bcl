@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.EventBus.IntegrationEventLog
+namespace PIBcl.EventBus.IntegrationEventLog
 {
     public class IntegrationEventLogServiceSettings
     {
