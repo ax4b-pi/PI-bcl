@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DuCorp.IdemPotency
+namespace PIBcl.IdemPotency
 {
    public class InMemoryRequestManager : IRequestManager
    {

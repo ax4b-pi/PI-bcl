@@ -1,7 +1,7 @@
 ﻿using System.Collections.Concurrent;
 using System.Linq;
 
-namespace DuCorp.IdemPotency
+namespace PIBcl.IdemPotency
 {
    public class CircularQueue<T>
    {
