@@ -1,6 +1,6 @@
 ﻿using Autofac;
-using DuCorp.EventBus;
-using DuCorp.EventBus.RabbitMQEventBus;
+using PIBcl.EventBus;
+using PIBcl.EventBus.RabbitMQEventBus;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -14,7 +14,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuCorp.EventBus.RabbitMQEventBus
+namespace PIBcl.EventBus.RabbitMQEventBus
 {
     public class EventBusRabbitMQ : IEventBus, IDisposable
     {
