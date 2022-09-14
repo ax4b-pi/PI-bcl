@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuCorp.EventBus
+namespace PIBcl.EventBus
 {
 
     public interface IIntegrationEventHandler<in TIntegrationEvent> : IIntegrationEventHandler

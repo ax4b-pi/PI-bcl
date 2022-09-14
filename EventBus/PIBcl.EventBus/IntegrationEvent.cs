@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace DuCorp.EventBus
+namespace PIBcl.EventBus
 {
     public abstract class IntegrationEvent
     {

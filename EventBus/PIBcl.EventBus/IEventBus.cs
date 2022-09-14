@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.EventBus
+namespace PIBcl.EventBus
 {
     public interface IEventBus
     {
