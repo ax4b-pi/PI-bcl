@@ -1,0 +1,10 @@
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.deps.json
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.dll
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.pdb
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.csproj.AssemblyReference.cache
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.AssemblyInfoInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.AssemblyInfo.cs
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.csproj.CoreCompileInputs.cache
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.dll
+C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.pdb
