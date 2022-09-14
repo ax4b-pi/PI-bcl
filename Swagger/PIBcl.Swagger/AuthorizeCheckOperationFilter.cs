@@ -1,10 +1,10 @@
-﻿using DuCorp.Core;
+﻿using PIBcl.Core;
 using System.Collections.Generic;
 using System.Linq;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace DuCorp.Swagger
+namespace PIBcl.Swagger
 {
    public class AuthorizeCheckOperationFilter : IOperationFilter
    {

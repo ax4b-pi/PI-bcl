@@ -3,7 +3,7 @@ using System.Reflection;
 using Microsoft.AspNetCore.Authorization;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace DuCorp.Swagger
+namespace PIBcl.Swagger
 {
    internal static class OperationFilterContextExtensions
    {

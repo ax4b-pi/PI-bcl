@@ -1,4 +1,4 @@
-﻿using DuCorp.Core;
+﻿using PIBcl.Core;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -7,7 +7,7 @@ using Swashbuckle.AspNetCore.Swagger;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DuCorp.Swagger
+namespace PIBcl.Swagger
 {
    public static class Startup
    {

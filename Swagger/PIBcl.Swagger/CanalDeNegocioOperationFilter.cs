@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.Swagger
+namespace PIBcl.Swagger
 {
    public class CanalDeNegocioOperationFilter : IOperationFilter
    {
