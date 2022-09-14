@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuCorp.EventBus.AzureServiceBus
+namespace PIBcl.EventBus.AzureServiceBus
 {
     public class AzureEventServiceBus : IEventBus
     {

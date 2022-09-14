@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DuCorp.EventBus.AzureServiceBus
+namespace PIBcl.EventBus.AzureServiceBus
 {
     public class ServiceBusPersisterConnection : IServiceBusPersisterConnection
     {

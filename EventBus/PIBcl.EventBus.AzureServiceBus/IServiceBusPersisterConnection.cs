@@ -1,7 +1,7 @@
 ﻿using Microsoft.Azure.ServiceBus;
 using System;
 
-namespace DuCorp.EventBus.AzureServiceBus
+namespace PIBcl.EventBus.AzureServiceBus
 {
     public interface IServiceBusPersisterConnection
     {
