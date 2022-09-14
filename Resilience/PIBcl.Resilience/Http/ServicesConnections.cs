@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 
-namespace DuCorp.Resilience.Http
+namespace PIBcl.Resilience.Http
 {
    public static class ServicesConnections
    {

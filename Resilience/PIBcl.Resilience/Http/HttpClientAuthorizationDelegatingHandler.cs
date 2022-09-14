@@ -8,14 +8,14 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Security.Claims;
 using Microsoft.Identity.Client;
-using DuCorp.Core;
+using PIBcl.Core;
 using System.Linq;
 using PIBcl.Auth;
 using System.Text;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 
-namespace DuCorp.Resilience.Http
+namespace PIBcl.Resilience.Http
 {
     public class HttpClientAuthorizationDelegatingHandler
        : DelegatingHandler
