@@ -1,4 +1,6 @@
 .vs
 */.vs
-*/obj
-*/bin
+obj/
+bin/
+
+
