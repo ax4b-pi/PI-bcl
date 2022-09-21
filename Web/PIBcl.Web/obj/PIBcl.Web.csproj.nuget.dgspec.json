@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj": {}
+    "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj": {
+    "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj",
         "projectName": "PIBcl.Core",
-        "projectPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj",
-        "packagesPath": "C:\\Users\\tiago.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\obj\\",
+        "projectPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj",
+        "packagesPath": "C:\\Users\\douglas.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tiago.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\douglas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,21 +70,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj": {
+    "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj",
         "projectName": "PIBcl.Web",
-        "projectPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj",
-        "packagesPath": "C:\\Users\\tiago.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Web\\PIBcl.Web\\obj\\",
+        "projectPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Web\\PIBcl.Web\\PIBcl.Web.csproj",
+        "packagesPath": "C:\\Users\\douglas.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Web\\PIBcl.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tiago.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\douglas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,8 +102,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj": {
-                "projectPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj"
+              "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj": {
+                "projectPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\Core\\PIBcl.Core\\PIBcl.Core.csproj"
               }
             }
           }
@@ -148,7 +156,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

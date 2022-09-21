@@ -8,3 +8,13 @@ C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstand
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.csproj.CoreCompileInputs.cache
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.dll
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.pdb

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7ETvlOlmr9ZoV37Z8cQkqV7/LF08Hz1VXMocz6D1f5rO8FYZDu9jXiM0YM8xVvNSLQhptt55ApU6UATxetTvdQ==",
+  "dgSpecHash": "N9ZxoOl1Hf38gP1dJ5N3V6jVXQbXW1tzMz91xDIsf1n2BKP7UypiNyQWRBGK41puDThi8U1YRvw+f3+44TYCMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\EventBus\\PIBcl.EventBus\\PIBcl.EventBus.csproj",
+  "projectFilePath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\EventBus\\PIBcl.EventBus\\PIBcl.EventBus.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
   ],
   "logs": []
 }

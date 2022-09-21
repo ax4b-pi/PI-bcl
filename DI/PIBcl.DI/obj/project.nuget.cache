@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "2QcQFgNL6XFjBdxVpvjmFxxpTzwncOvU0GnIVQn5Qkj1l+ekgeERWi5Gy+EcLBCT21RyIefbygrYG9lmwAxzLg==",
+  "dgSpecHash": "bOY3t21joLLOqDaHdfigcm86lgfUCrb3tHUQW16AuzdWeif+5zGLVua+hAuNQBaOxagcY5LkU5IzYYoelH3dIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\DI\\PIBcl.DI\\PIBcl.csproj",
+  "projectFilePath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\DI\\PIBcl.DI\\PIBcl.DI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\autofac\\4.6.1\\autofac.4.6.1.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\autofac.extensions.dependencyinjection\\4.3.1\\autofac.extensions.dependencyinjection.4.3.1.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\tiago.costa\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\autofac\\4.6.1\\autofac.4.6.1.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\autofac.extensions.dependencyinjection\\4.3.1\\autofac.extensions.dependencyinjection.4.3.1.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\douglas.silva\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

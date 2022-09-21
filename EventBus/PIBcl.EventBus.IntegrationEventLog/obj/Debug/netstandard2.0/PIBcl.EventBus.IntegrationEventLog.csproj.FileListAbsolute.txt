@@ -12,3 +12,17 @@ C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLo
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.csproj.CopyComplete
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.dll
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.csproj.CopyComplete
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventLog\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventLog.pdb

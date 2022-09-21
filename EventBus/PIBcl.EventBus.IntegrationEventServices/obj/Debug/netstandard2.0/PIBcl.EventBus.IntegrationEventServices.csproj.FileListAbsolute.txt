@@ -11,3 +11,16 @@ C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventSe
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.CopyComplete
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.dll
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.csproj.CopyComplete
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.IntegrationEventServices\obj\Debug\netstandard2.0\PIBcl.EventBus.IntegrationEventServices.pdb

@@ -8,3 +8,13 @@ C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\P
 C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.csproj.CoreCompileInputs.cache
 C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.dll
 C:\Users\tiago.costa\Documents\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\bin\Debug\netstandard2.0\PIBcl.Core.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Core\PIBcl.Core\obj\Debug\netstandard2.0\PIBcl.Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\bin\Debug\netstandard2.0\PIBcl.Swagger.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\bin\Debug\netstandard2.0\PIBcl.Swagger.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\bin\Debug\netstandard2.0\PIBcl.Swagger.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\bin\Debug\netstandard2.0\PIBcl.Core.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\bin\Debug\netstandard2.0\PIBcl.Core.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.csproj.CopyComplete
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\Swagger\PIBcl.Swagger\obj\Debug\netstandard2.0\PIBcl.Swagger.pdb

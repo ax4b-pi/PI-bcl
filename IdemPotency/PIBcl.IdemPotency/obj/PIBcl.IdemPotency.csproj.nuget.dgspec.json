@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj": {}
+    "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj": {
+    "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj",
+        "projectUniqueName": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj",
         "projectName": "PIBcl.IdemPotency",
-        "projectPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj",
-        "packagesPath": "C:\\Users\\tiago.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.costa\\Documents\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\obj\\",
+        "projectPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\PIBcl.IdemPotency.csproj",
+        "packagesPath": "C:\\Users\\douglas.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\douglas.silva\\vb-diagnostico-digital\\Repositórios\\backend\\PI-bcl\\IdemPotency\\PIBcl.IdemPotency\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tiago.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\douglas.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

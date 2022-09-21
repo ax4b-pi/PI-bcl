@@ -1,0 +1,10 @@
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\bin\Debug\netstandard2.0\PIBcl.DI.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\bin\Debug\netstandard2.0\PIBcl.DI.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\bin\Debug\netstandard2.0\PIBcl.DI.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\DI\PIBcl.DI\obj\Debug\netstandard2.0\PIBcl.DI.pdb

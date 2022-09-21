@@ -11,3 +11,16 @@ C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\ob
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.csproj.CopyComplete
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.dll
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\bin\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\bin\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\bin\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.csproj.CopyComplete
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.AzureServiceBus\obj\Debug\netstandard2.0\PIBcl.EventBus.AzureServiceBus.pdb

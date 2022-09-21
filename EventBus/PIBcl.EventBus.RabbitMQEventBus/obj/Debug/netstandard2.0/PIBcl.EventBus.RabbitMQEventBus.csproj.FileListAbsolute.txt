@@ -11,3 +11,16 @@ C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\o
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.CopyComplete
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.dll
 C:\Users\tiago.costa\Documents\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.deps.json
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\bin\Debug\netstandard2.0\PIBcl.EventBus.pdb
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.AssemblyReference.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.AssemblyInfoInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.AssemblyInfo.cs
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.CoreCompileInputs.cache
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.csproj.CopyComplete
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.dll
+C:\Users\douglas.silva\vb-diagnostico-digital\Repositórios\backend\PI-bcl\EventBus\PIBcl.EventBus.RabbitMQEventBus\obj\Debug\netstandard2.0\PIBcl.EventBus.RabbitMQEventBus.pdb
