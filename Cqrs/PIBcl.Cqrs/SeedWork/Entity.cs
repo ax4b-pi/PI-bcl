@@ -39,13 +39,20 @@ namespace PIBcl.Cqrs.SeedWork
         [JsonProperty(PropertyName = "canal")]
         public CanalDeNegocio Canal { get; private set; }
 
-        [JsonProperty(PropertyName = "isEnable")]
-        public bool IsEnable { get; private set; }
+        bool _isEnable;
 
-        protected void SetIsEnable(bool isEnable)
-        {
-            IsEnable = isEnable;
+        [JsonProperty(PropertyName = "isEnable")]
+        public virtual bool isEnable {
+            get {
+                return _isEnable;
+            }
+            set {
+                _isEnable = value;
+            }
         }
+
+        [JsonProperty(PropertyName = "teste")]
+        public string teste { get; set; }
 
         protected void SetCanalDeNegocio(CanalDeNegocio canal)
         {
