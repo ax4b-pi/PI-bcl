@@ -188,7 +188,8 @@ namespace PIBcl.EventBus.RabbitMQEventBus
             if (_consumerChannel != null)
             {
                 var consumer = new AsyncEventingBasicConsumer(_consumerChannel);
-                consumer.ConsumerTag = Guid.NewGuid().ToString();
+                //consumer.ConsumerTags = Guid.NewGuid().ToString();
+                //consumer.ConsumerTag = Guid.NewGuid().ToString();
 
                 consumer.Received += Consumer_Received;
 
@@ -206,7 +207,7 @@ namespace PIBcl.EventBus.RabbitMQEventBus
         private async Task Consumer_Received(object sender, BasicDeliverEventArgs eventArgs)
         {
             var eventName = eventArgs.RoutingKey;
-            var message = Encoding.UTF8.GetString(eventArgs.Body);
+            var message = Encoding.UTF8.GetString(eventArgs.Body.ToArray());
 
             try
             {

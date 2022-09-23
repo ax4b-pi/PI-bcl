@@ -1,19 +1,17 @@
 ﻿using System;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
-using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Security.Claims;
-using Microsoft.Identity.Client;
 using PIBcl.Core;
 using System.Linq;
 using PIBcl.Auth;
 using System.Text;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
+using Microsoft.Identity.Client;
 
 namespace PIBcl.Resilience.Http
 {
@@ -69,7 +67,8 @@ namespace PIBcl.Resilience.Http
 
                     var tokenCache = tokenManager.CreateTokenCache(_apiInfo.ClientId);
 
-                    AuthenticationResult result = await
+                    //AuthenticationResult result = await
+                    var result = await
                        tokenManager.AcquireTokenForClientAsync(new string[] { scope }, tokenCache);
 
                     if (result != null)

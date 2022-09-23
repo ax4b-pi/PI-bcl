@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace PIBcl.EventBus.IntegrationEventServices
 {
-    public class BulkIntegrationExecutionBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
+    public class BulkIntegrationExecutionBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse> where TRequest : IRequest<TResponse>
     {
         private readonly IIntegrationEventService _integrationEventService;
         private readonly ILogger<BulkIntegrationExecutionBehavior<TRequest, TResponse>> _logger;

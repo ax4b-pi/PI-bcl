@@ -1,4 +1,5 @@
-﻿using Swashbuckle.AspNetCore.Swagger;
+﻿using Microsoft.OpenApi.Models;
+using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System;
 using System.Collections.Generic;
@@ -6,28 +7,23 @@ using System.Text;
 
 namespace PIBcl.Swagger
 {
-   public class CanalDeNegocioOperationFilter : IOperationFilter
-   {
-      public CanalDeNegocioOperationFilter()
-      {
-      }
+    public class CanalDeNegocioOperationFilter : IOperationFilter
+    {
+        public CanalDeNegocioOperationFilter()
+        {
+        }
+        public void Apply(OpenApiOperation operation, OperationFilterContext context)
+        {
+            if (operation.Parameters == null)
+                operation.Parameters = new List<OpenApiParameter>();
 
-      public void Apply(Operation operation, OperationFilterContext context)
-      {
-         if (operation.Parameters == null)
-            operation.Parameters = new List<IParameter>();
-
-         operation.Parameters.Add(new HeaderParameter()
-         {
-            Name = "x-canal",
-            In = "header",
-            Type = "string",
-            Required = true
-         });
-      }
-
-      class HeaderParameter : NonBodyParameter
-      {
-      }
-   }
+            operation.Parameters.Add(new OpenApiParameter()
+            {
+                Name = "x-canal",
+                In = ParameterLocation.Header,
+                Required = true,
+                //Type = "string",
+            });
+        }
+    }
 }
