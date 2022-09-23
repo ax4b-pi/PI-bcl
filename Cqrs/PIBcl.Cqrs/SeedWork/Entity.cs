@@ -42,7 +42,7 @@ namespace PIBcl.Cqrs.SeedWork
         bool _isEnable;
 
         [JsonProperty(PropertyName = "isEnable")]
-        public virtual bool isEnable {
+        public virtual bool IsEnable {
             get {
                 return _isEnable;
             }
