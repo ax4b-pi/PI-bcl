@@ -1,6 +1,6 @@
 ﻿using Dapper;
 using MySqlConnector;
-using System;
+using PIBcl.Cqrs.SeedWork;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -13,7 +13,6 @@ namespace PIBcl.Cqrs.Querys
         {
             _connection = connection;
         }
-
         public async Task<IEnumerable<T>> QueryEntity(string query, object parameters = null) 
         {
             using (_connection)
@@ -35,15 +34,17 @@ namespace PIBcl.Cqrs.Querys
         {
             using (_connection)
             {
+                int entity;
+
                 try
                 {                    
-                    var entity = await _connection.ExecuteAsync(query, parameters);
+                    entity = await _connection.ExecuteAsync(query, parameters);
                 }
                 catch (System.Exception ex)
                 {
                     return false;
                 }
-                return true;
+                return entity != 0;
             }
         }
     }
