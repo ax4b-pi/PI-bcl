@@ -22,7 +22,7 @@ namespace PIBcl.Cqrs.Querys
                 {
                     return null;
                 }
-                return null;
+                return entity;
             }
         }
     }
