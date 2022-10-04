@@ -16,7 +16,25 @@ namespace PIBcl.Cqrs.Querys
 
                 try
                 {
-                    entity = await connection.QueryAsync<T>("" + query+" " + conditionQuery, parameters);
+                    entity = await connection.QueryAsync<T>(query+" " + conditionQuery, parameters);
+                }
+                catch (System.Exception ex)
+                {
+                    return null;
+                }
+                return entity;
+            }
+        }
+        public static async Task<IEnumerable<T>> ManipulationEntityToDatabase(string _connection, string query, string conditionQuery = "", object parameters = null)
+        {
+            MySqlConnection mySqlConnection = new MySqlConnection(_connection);
+            using (var connection = mySqlConnection)
+            {
+                IEnumerable<T> entity;
+
+                try
+                {
+                    entity = await connection.QueryAsync<T>("" + query + " " + conditionQuery, parameters);
                 }
                 catch (System.Exception ex)
                 {
