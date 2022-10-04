@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace PIBcl.Cqrs.Querys
 {
-    public class ConnectionDatabase<T> where T : class
+    public class DatabaseConnection<T> where T : class
     {
         private readonly MySqlConnection _connection;
-        public ConnectionDatabase(MySqlConnection connection)
+        public DatabaseConnection(MySqlConnection connection)
         {
             _connection = connection;
         }
