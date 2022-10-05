@@ -9,9 +9,9 @@ namespace PIBcl.Cqrs.Querys
     public class DatabaseConnection<T> where T : class
     {
         private readonly MySqlConnection _connection;
-        public DatabaseConnection(MySqlConnection connection)
+        public DatabaseConnection(string connection)
         {
-            _connection = connection;
+            _connection = new MySqlConnection(connection);
         }
         public async Task<IEnumerable<T>> QueryEntity(string query, object parameters = null) 
         {
