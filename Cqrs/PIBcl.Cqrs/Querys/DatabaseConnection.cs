@@ -6,28 +6,25 @@ using System.Threading.Tasks;
 
 namespace PIBcl.Cqrs.Querys
 {
-    public class DatabaseConnection<T> where T : class
+    public class DatabaseConnection
     {
-
-        private readonly MySqlConnection _connection;
         private IConfiguration _configuration;
         private string _connectionString { get { return _configuration.GetConnectionString("DefaultConnection"); } }
 
         public DatabaseConnection(IConfiguration configuration)
         {
-            _configuration = configuration;
-            _connection = new MySqlConnection(_connectionString);
+            _configuration = configuration;        
         }
 
-        public async Task<IEnumerable<T>> QueryEntity(string query, object parameters = null)
+        public async Task<IEnumerable<T>> QueryEntity<T>(string query, object parameters = null)
         {
-            using (_connection)
+            using (var connectionMethod = new MySqlConnection(_connectionString))
             {
                 IEnumerable<T> entity;
 
                 try
                 {
-                    entity = await _connection.QueryAsync<T>(query, parameters);
+                    entity = await connectionMethod.QueryAsync<T>(query, parameters);
                 }
                 catch (System.Exception ex)
                 {
