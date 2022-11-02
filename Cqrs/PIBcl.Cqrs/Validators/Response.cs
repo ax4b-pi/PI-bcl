@@ -8,8 +8,8 @@ namespace PIBcl.Cqrs.Validators
    {
       private readonly IList<string> _messages = new List<string>();
 
-      public IEnumerable<string> Messages { get; }
-      public Guid Result { get; }
+      public IEnumerable<string> Messages { get; set; }
+      public Guid Result { get; set; }
 
       public Response() => Messages = new ReadOnlyCollection<string>(_messages);
 
