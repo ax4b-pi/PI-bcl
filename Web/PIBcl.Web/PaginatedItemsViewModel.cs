@@ -16,11 +16,11 @@ namespace PIBcl.Web
 
       public IEnumerable<TEntity> Data { get; set; }
 
-      public PaginatedItems(int pageIndex, int pageSize, IEnumerable<TEntity> data)
+      public PaginatedItems(int pageIndex, int pageSize, int count, IEnumerable<TEntity> data)
       {
          this.PageIndex = pageIndex;
          this.PageSize = pageSize;
-         this.Count = data.Count();
+         this.Count = count;
          this.Data = data.Skip(pageSize * pageIndex).Take(pageSize);
          if(PageSize != 0 )
             this.MoreRecords =  Count / PageSize > PageIndex + 1;
