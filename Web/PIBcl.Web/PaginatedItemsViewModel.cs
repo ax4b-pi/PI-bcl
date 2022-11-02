@@ -16,7 +16,7 @@ namespace PIBcl.Web
 
       public IEnumerable<TEntity> Data { get; set; }
 
-      public PaginatedItems(int pageIndex, int pageSize, int count, IEnumerable<TEntity> data)
+      public PaginatedItems(int pageIndex, int pageSize, long count, IEnumerable<TEntity> data)
       {
          this.PageIndex = pageIndex;
          this.PageSize = pageSize;
