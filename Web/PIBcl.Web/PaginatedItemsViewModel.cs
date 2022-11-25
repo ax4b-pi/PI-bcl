@@ -23,7 +23,7 @@ namespace PIBcl.Web
          this.Count = count;
          this.Data = data.Skip(pageSize * pageIndex).Take(pageSize);
          if(PageSize != 0 )
-            this.MoreRecords =  Count / PageSize > PageIndex + 1;
+            this.MoreRecords = count > (pageIndex * pageSize + pageSize);
       }
    }
 }
