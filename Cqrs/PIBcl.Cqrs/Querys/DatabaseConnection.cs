@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
+using PIBcl.Cqrs.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -48,6 +49,50 @@ namespace PIBcl.Cqrs.Querys
                     return false;
                 }
                 return entity != 0;
+            }
+        }
+
+        public async Task<bool> ManipulationEntityList(List<AssignParamsManipulationEntity> objects)
+        {
+            using (var connectionMethod = new MySqlConnection(_connectionString))
+            {
+                int entity = 0;
+
+                connectionMethod.Open();
+
+                using (var transaction = connectionMethod.BeginTransaction())
+                {
+                    foreach (var objectCurrent in objects)
+                    {
+                        try
+                        {
+                            await connectionMethod.ExecuteAsync(
+                                objectCurrent.Query,
+                                objectCurrent.Params,
+                                transaction: transaction
+                            );
+
+                            entity++;
+                        }
+                        catch (System.Exception ex)
+                        {
+                            transaction.Rollback();
+                            return false;
+                        }
+                    }
+                    if (objects.Count == entity)
+                    {
+                        transaction.Commit();
+                        return entity != 0;
+                    }
+                    else
+                    {
+                        transaction.Rollback();
+                        return false;
+                    }
+                }
+
+                connectionMethod.Close();
             }
         }
     }
