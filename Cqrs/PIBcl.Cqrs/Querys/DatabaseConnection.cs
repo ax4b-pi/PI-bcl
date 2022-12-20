@@ -1,7 +1,9 @@
 ﻿using Dapper;
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
+using PIBcl.Cqrs.Exceptions;
 using PIBcl.Cqrs.Models;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -27,9 +29,9 @@ namespace PIBcl.Cqrs.Querys
                 {
                     entity = await connectionMethod.QueryAsync<T>(query, parameters);
                 }
-                catch (System.Exception ex)
+                catch (Exception ex)
                 {
-                    return null;
+                    throw ex;
                 }
                 return entity;
             }
@@ -44,9 +46,9 @@ namespace PIBcl.Cqrs.Querys
                 {
                     entity = await connectionMethod.ExecuteAsync(query, parameters);
                 }
-                catch (System.Exception ex)
+                catch (Exception ex)
                 {
-                    return false;
+                    throw new PipelineException(ex.Message, ex.InnerException);
                 }
                 return entity != 0;
             }
