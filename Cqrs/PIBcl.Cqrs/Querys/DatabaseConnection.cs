@@ -48,7 +48,7 @@ namespace PIBcl.Cqrs.Querys
                 }
                 catch (Exception ex)
                 {
-                    throw new PipelineException(ex.Message, ex.InnerException);
+                    throw ex;
                 }
                 return entity != 0;
             }
