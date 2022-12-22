@@ -76,10 +76,10 @@ namespace PIBcl.Cqrs.Querys
 
                             entity++;
                         }
-                        catch (System.Exception ex)
+                        catch (Exception ex)
                         {
                             transaction.Rollback();
-                            return false;
+                            throw ex;
                         }
                     }
                     if (objects.Count == entity)
