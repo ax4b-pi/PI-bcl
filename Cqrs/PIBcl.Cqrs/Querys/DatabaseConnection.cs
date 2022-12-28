@@ -94,43 +94,52 @@ namespace PIBcl.Cqrs.Querys
                 }
             }
         }
-        public async Task<bool> ExecuteList(List<AssignParamsManipulationEntity> objects, MySqlTransaction transaction)
+        public async Task<bool> ExecuteList(List<List<AssignParamsManipulationEntity>> objects)
         {
+
             using (var connectionMethod = new MySqlConnection(_connectionString))
             {
                 int entity = 0;
                 connectionMethod.Open();
-                foreach (var objectCurrent in objects)
+                using (var transaction = connectionMethod.BeginTransaction())
                 {
-                    try
+                    foreach (var aba in objects)
                     {
-                        await connectionMethod.ExecuteAsync(
-                            objectCurrent.Query,
-                            objectCurrent.Params,
-                            transaction: transaction
-                        );
-                        entity++;
+                        foreach (var objectCurrent in aba)
+                        {
+
+                            try
+                            {
+                                await connectionMethod.ExecuteAsync(
+                                    objectCurrent.Query,
+                                    objectCurrent.Params,
+                                    transaction: transaction
+                                );
+                                entity++;
+                            }
+                            catch (Exception ex)
+                            {
+                                transaction.Rollback();
+                                connectionMethod.Close();
+                                throw ex;
+                            }
+                        }
                     }
-                    catch (Exception ex)
+
+                    if (objects.Count == entity)
+                    {
+                        transaction.Commit();
+                        connectionMethod.Close();
+                        return true;
+
+                    }
+                    else
                     {
                         transaction.Rollback();
                         connectionMethod.Close();
-                        throw ex;
+                        return false;
                     }
                 }
-                if (objects.Count == entity)
-                {
-                    connectionMethod.Close();
-                    return true;
-
-                }
-                else
-                {
-                    transaction.Rollback();
-                    connectionMethod.Close();
-                    return false;
-                }
-
 
             }
         }
