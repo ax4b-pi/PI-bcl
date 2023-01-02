@@ -57,7 +57,6 @@ namespace PIBcl.Cqrs.Querys
         {
             using (var connectionMethod = new MySqlConnection(_connectionString))
             {
-                int entity = 0;
 
                 connectionMethod.Open();
 
@@ -70,7 +69,6 @@ namespace PIBcl.Cqrs.Querys
                             await connectionMethod.ExecuteAsync(objectCurrent.Query,
                                 objectCurrent.Params, transaction: transaction);
 
-                            entity++;
                         }
                         catch (Exception ex)
                         {
@@ -82,7 +80,7 @@ namespace PIBcl.Cqrs.Querys
 
                         transaction.Commit();
                         connectionMethod.Close();
-                        return entity != 0;
+                        return true;
 
                 }
             }
