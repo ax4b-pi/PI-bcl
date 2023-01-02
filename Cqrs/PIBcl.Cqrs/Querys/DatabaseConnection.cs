@@ -79,18 +79,11 @@ namespace PIBcl.Cqrs.Querys
                             throw ex;
                         }
                     }
-                    if (objects.Count == entity)
-                    {
+
                         transaction.Commit();
                         connectionMethod.Close();
                         return entity != 0;
-                    }
-                    else
-                    {
-                        transaction.Rollback();
-                        connectionMethod.Close();
-                        return false;
-                    }
+
                 }
             }
         }
