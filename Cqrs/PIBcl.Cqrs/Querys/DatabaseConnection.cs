@@ -78,9 +78,9 @@ namespace PIBcl.Cqrs.Querys
                         }
                     }
 
-                        transaction.Commit();
-                        connectionMethod.Close();
-                        return true;
+                    transaction.Commit();
+                    connectionMethod.Close();
+                    return true;
 
                 }
             }
@@ -106,7 +106,6 @@ namespace PIBcl.Cqrs.Querys
                                     objectCurrent.Params,
                                     transaction: transaction
                                 );
-                                entity++;
                             }
                             catch (Exception ex)
                             {
@@ -115,6 +114,7 @@ namespace PIBcl.Cqrs.Querys
                                 throw ex;
                             }
                         }
+                        entity++;
                     }
 
                     if (objects.Count == entity)
