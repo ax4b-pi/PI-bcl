@@ -57,7 +57,6 @@ namespace PIBcl.Cqrs.Querys
         {
             using (var connectionMethod = new MySqlConnection(_connectionString))
             {
-                int entity = 0;
 
                 connectionMethod.Open();
 
@@ -70,7 +69,6 @@ namespace PIBcl.Cqrs.Querys
                             await connectionMethod.ExecuteAsync(objectCurrent.Query,
                                 objectCurrent.Params, transaction: transaction);
 
-                            entity++;
                         }
                         catch (Exception ex)
                         {
@@ -79,18 +77,11 @@ namespace PIBcl.Cqrs.Querys
                             throw ex;
                         }
                     }
-                    if (objects.Count == entity)
-                    {
-                        transaction.Commit();
-                        connectionMethod.Close();
-                        return entity != 0;
-                    }
-                    else
-                    {
-                        transaction.Rollback();
-                        connectionMethod.Close();
-                        return false;
-                    }
+
+                    transaction.Commit();
+                    connectionMethod.Close();
+                    return true;
+
                 }
             }
         }
@@ -115,7 +106,6 @@ namespace PIBcl.Cqrs.Querys
                                     objectCurrent.Params,
                                     transaction: transaction
                                 );
-                                entity++;
                             }
                             catch (Exception ex)
                             {
@@ -125,13 +115,10 @@ namespace PIBcl.Cqrs.Querys
                             }
                         }
                     }
-
                     transaction.Commit();
                     connectionMethod.Close();
                     return true;
-
                 }
-
             }
         }
         public MySqlTransaction IniciateTransaction()
